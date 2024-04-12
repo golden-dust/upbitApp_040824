@@ -420,7 +420,7 @@ color:rgb(255, 255, 255);
     <property name="geometry">
      <rect>
       <x>34</x>
-      <y>60</y>
+      <y>62</y>
       <width>261</width>
       <height>30</height>
      </rect>
@@ -464,7 +464,7 @@ color:rgb(255, 255, 255);
      <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter</set>
     </property>
    </widget>
-   <widget class="QLineEdit" name="lineEdit">
+   <widget class="QLineEdit" name="alarmPrice1">
     <property name="geometry">
      <rect>
       <x>90</x>
@@ -498,7 +498,7 @@ color:rgb(255, 255, 255);
      <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter</set>
     </property>
    </widget>
-   <widget class="QLineEdit" name="lineEdit_2">
+   <widget class="QLineEdit" name="alarmPrice2">
     <property name="geometry">
      <rect>
       <x>310</x>
@@ -556,11 +556,11 @@ color:rgb(255, 255, 255);
      <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter</set>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton">
+   <widget class="QPushButton" name="alarmButton">
     <property name="geometry">
      <rect>
       <x>470</x>
-      <y>268</y>
+      <y>265</y>
       <width>75</width>
       <height>23</height>
      </rect>
@@ -589,7 +589,7 @@ color:rgb(255, 255, 255);
      <x>0</x>
      <y>0</y>
      <width>580</width>
-     <height>21</height>
+     <height>24</height>
     </rect>
    </property>
   </widget>
